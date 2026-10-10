@@ -13,12 +13,6 @@
 
 ---
 
-**Course:** Topics in AI (`CSC461` / Assignment No. I / CLO-I)  
-**Institution:** COMSATS University Islamabad, Attock Campus  
-**Department:** Department of Computer Science  
-**Author:** **Mian Ameer Muhammad** | **Reg No:** `FA23-BAI-021`  
-**Instructor:** **Sir Salahuddin** | **Due Date:** `20 October 2026`
-
 </div>
 
 ---
